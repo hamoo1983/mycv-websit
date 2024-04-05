@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>my cv</title>
+        <h1>Curriculum vitae</h1>
+        <h2>MOHAMED REFAAT</h2>
+        <a href="tel:00971552891196"target="_blank"title="call me now">call me</a><br>
+        <a href=" https://wa.me/00971552891196"title="writte me at">whatsapp</a>
+      
+        <hr>
+        
+    </head>
+    <body background="img/back.jpg">
+      <img src="img/refaat.jpeg"height="10%"width="10%"alt="mohamed refaat photo">
+      <h3><u>personal inforation</u>
+        <ul type="circle">
+            <li><pre>NAME:       mohamed refaat abdu;khalek</pre></li>
+            <li><pre>MATERIAL:   married</pre></li>
+            <li><pre>BIRTH DATE: 11 april 1983</pre></li>
+            <li><pre>ADRESS:     giza alshiekh zayeed ganna zayed compound 87</pre></li>
+            <li><pre>NATIONALITY:egyptian</pre></li>
+          </ul>
+      </h3>
+      <h3><u>job experience</u></h3>
+  <img src="img/alaan.jpg"width="10%"height="10%">
+      <ul type="circle">
+        <li>ALAAN TV:<strong>working as a graphic operator</strong>
+           <b>my tasks was</b>
+            <ol type="A">
+             <li>Check cg before AIR with correcting</li>
+             <li>Preparing template for director</li>
+             <li>recording tapes</li>
+             <li>ingesting promos</li>
+             <li>ingesting on harries software</li>
+             <li>Editing</li>
+             <li>Watching out the feeds and manage them</li>
+    </ol>
+    <br>
+<img src="img/live-bg-main.jpg"width="10%"height="10%">
+
+    <li>sky news arabia:<strong>working as a director assistant</strong>
+      <b>my tasks was</b>
+      <ol type="I">
+          <li>compare between I news and auto script rundown order
+            Alert director if there are any mistake in my rundown order
+            before going on-air
+            </li>
+          <li>Perform my job with minimum mistakes, Target is 99% On-Air
+            measured by the numbers of errors or outage recorded in the Operational logs
+            </li>
+          <li>i Follow the workflow in the Gallery with 100% concentration</li>
+          <li>am able to solve any problem that may occur ,also i can to switch to
+            backup system seamlessly with minimum time
+            </li>
+          <li>i share with his colleagues any new idea that improve our workflow.
+            also i issues and errors are reported appropriately on daily basis
+            </li>
+          <li>I worked as a team leader for 2 months, replacement for my team
+            leader
+            so I was responsible putting Rota schedule
+            </li>
+  </ol>
+
+
+
+      </ul>
+      <h3><u>skils</u>
+      <ul>
+        <li>Having a good knowledge about media like tape recording,
+          Automation, feed receiving and others
+          </li>
+        <li>The Ability to Learn and to apply a diplomatic approach, negotiate and comfortably
+          interact with all levels of management and staff
+          </li>
+        <li>Strong interpersonal skills and adaptable.</li>
+        <li>Successful in dealing with people at all levels - good interpersonal communicator.
+        </li>
+        <li>Capable of working alone, without supervision.</li>
+        <li>Manages the use of computerized information systems within the unit.</li>
+        <li>Ability to effectively handle confidential information.</li>
+      </ul>
+    </h3>
+      <h3><u>EDUCATION:</u>
+      <ul type="Square">
+        <li>Passed Secondary School Certificate from zamalek school</li>
+        <li>English courses British council “abu dhabi”</li>
+        <li>bachelors of business administration in Cairo university</li>
+      </ul>
+      </h3>
+      <h3><u>COMPUTERS SKILLS</u>
+      <ul type="circle">
+        <li>Courses from Microsoft Office - 6 month – and got Microsoft office specialist certificate</li>
+        <li>solid work design program</li>
+        <li>3d printing</li>
+        <li>Cura program for 3d printer operating</li>
+      </ul>
+      </h3>
+      <h3><u>language</u>
+      <ul>
+        <li>English (Excellent in Speaking and Writing)</li>
+        <li>Arabic (Mother tongue)</li>
+      </ul>
+    </h3>
+      <h3><u>referances</u>
+      mr/ wessam ayoub tecniqan manager skynews arabia</h3>
+    
+
+    </body>
+    </html>
+
+
+
+    
+
+
+     
